@@ -1,0 +1,5 @@
+IslaLaguna;Quellón;1350
+RíoFrío;PuertoVaras;890
+BahiaMansa;Osorno;2100
+IsloteSur;Chonchi;760
+PuntaVerde;Dalcahue;1750
